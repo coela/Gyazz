@@ -14,7 +14,7 @@ require 'readdata'
 require 'edit'
 require 'page'
 require 'attr'
-require 'lib/rss'
+require 'rss'
 
 helpers do
   #

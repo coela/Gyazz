@@ -14,5 +14,5 @@
 # 運用環境
 #
 SRCROOT = ""
-URLROOT = "http://Gyazz.com"
-FILEROOT = "/Users/masui/Gyazz/data"
+URLROOT = "http://localhost:4567"
+FILEROOT = "/Users/satoshi/Gyazz/data"

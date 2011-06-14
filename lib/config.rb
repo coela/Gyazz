@@ -16,3 +16,4 @@
 SRCROOT = ""
 URLROOT = "http://localhost:4567"
 FILEROOT = "/Users/satoshi/Gyazz/data"
+Encoding.default_external = 'UTF-8'

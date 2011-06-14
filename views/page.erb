@@ -47,7 +47,7 @@ $(document).ready(function(){
 </div>
 
 <div id='rawdata'>
-<%= @rawdata.gsub(/</,'&lt;') %>
+<%= if !@rawdata.nil? and @rawdata.empty? then @rawdata.gsub(/</,'&lt;') else @rawdata end %>
 </div>
 
 <p>

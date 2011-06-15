@@ -14,6 +14,6 @@
 # 運用環境
 #
 SRCROOT = ""
-URLROOT = "http://localhost:4567"
-FILEROOT = "/Users/satoshi/Gyazz/data"
+URLROOT = "http://pixcell.Gyazz.dotcloud.com"
+FILEROOT = "/home/dotcloud/pixcell/data"
 Encoding.default_external = 'UTF-8'

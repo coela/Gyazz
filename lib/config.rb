@@ -15,5 +15,5 @@
 #
 SRCROOT = ""
 URLROOT = "http://pixcell.Gyazz.dotcloud.com"
-FILEROOT = "/home/dotcloud/pixcell/data"
+FILEROOT = "/home/dotcloud/data"
 Encoding.default_external = 'UTF-8'

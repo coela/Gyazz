@@ -14,6 +14,6 @@
 # 運用環境
 #
 SRCROOT = ""
-URLROOT = "http://pixcell.Gyazz.dotcloud.com"
+URLROOT = "http://gyazz.pixcell.dotcloud.com"
 FILEROOT = "/home/dotcloud/data"
 Encoding.default_external = 'UTF-8'

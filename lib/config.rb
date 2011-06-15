@@ -15,5 +15,5 @@
 #
 SRCROOT = ""
 URLROOT = "http://gyazz.pixcell.dotcloud.com"
-FILEROOT = File.expand_path(File.dirname(__FILE__))
+FILEROOT = File.expand_path(File.dirname(__FILE__)) + '/data'
 Encoding.default_external = 'UTF-8'
